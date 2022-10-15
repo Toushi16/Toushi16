@@ -2,7 +2,7 @@
 <br>
 <p font-size="18px"> Hi there 👋, I'm Domenico and I'm studying for becoming a front-end-developer. I hope You can find some interesting stuff right here. <p>
 
-<h1 align="center" font-size="16px"> field of study (currently doing) </h1>
+<h1 align="center" font-size="16px">field of study</h1>
 <br>
 <div align="center">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
