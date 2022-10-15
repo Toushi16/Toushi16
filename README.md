@@ -1,6 +1,6 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f66051104513603.5f647cdd7b864.jpg"/>
 <br>
-<p font-size="18px"> Hi there 👋, I'm Domenico and I'm studying for becoming a front-end-developer. I hope You can find some interesting stuff right here. <p>
+<p font-size="18px"> Hi there 👋, I'm Domenico and I'm a front-end-developer. I hope You can find some interesting stuff right here. <p>
 
 <h1 align="center" font-size="16px">field of study</h1>
 <br>
