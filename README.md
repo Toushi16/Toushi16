@@ -11,4 +11,5 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=react&logoColor=white&style=for-the-badge" />
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=react&logoColor=white&style=for-the-badge" />
 </div>
